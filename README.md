@@ -52,7 +52,7 @@ The dashboard includes the following visuals:
 
 ## How to Use
 
-1. Open the Sales_Agent_Performance_Dashboard.pbix file in Power BI Desktop.
+1. Open the '.pbix' file in Power BI Desktop.
 2. Use the **Branch Group slicer** to filter the dashboard.
 3. Analyze performance through different visualizations.
 
@@ -60,7 +60,7 @@ The dashboard includes the following visuals:
 
 ## Project Files
 
-* `Sales_Agent_Performance_Dashboard.pbix`
+* Sales_Agent_Performance_Dashboard.pbix
 * Dataset used for analysis
 * Dashboard screenshot
 
